@@ -1,0 +1,1 @@
+bom dia, pessoal! A meta hoje é desenvolver uma api onde ela sera a base favoravel para ser utilizada na cloud da empresa! mao na massa pessoal"
